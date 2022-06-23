@@ -46,3 +46,16 @@ body{
    width: 200px;
 
  }
+ .flex-container{
+   flex-wrap: wrap;
+ }
+ .flex-item{
+   flex-basis: calc(50% - 1em);
+   max-height: 200px;
+   max-width: 200px;
+}
+ .flex-item:first-child {
+   flex-basis: 100%;
+   min-height: 400px;
+   min-width: 400px;
+}
