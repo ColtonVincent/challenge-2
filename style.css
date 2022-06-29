@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
 }
-
+/*adds background color and font to the body*/
 body{
     background-color: gainsboro;
     color: rgb(7, 45, 16);
@@ -12,7 +12,7 @@ body{
     
 
  }
-
+/*styles header with color and padding*/
  header {
     padding: 20px;
     background-color: rgb(7, 61, 20);
@@ -20,7 +20,7 @@ body{
     text-align: left;
     font-size: 20;
  }
-
+/*addes color and margin to nav box*/
  nav{
     margin: 5;
     background-color: rgb(110, 134, 118);
@@ -41,25 +41,43 @@ body{
  .container{
    display: flex;
  }
-
+/*portfolio img*/
  #profile-img{
    width: 200px;
 
  }
+ /*flex wraps the class=container*/
  .flex-container{
    flex-wrap: wrap;
  }
+ /*changes height and width to imgs*/
  .flex-item{
    flex-basis: calc(50% - 1em);
    max-height: 200px;
    max-width: 200px;
 }
+/*changes height and width to first-child img*/
  .flex-item:first-child {
    flex-basis: 100%;
    min-height: 400px;
    min-width: 400px;
 }
+/*adds color to footer box*/
 footer{
-  align-items: center;
-  display: flex;
+  background-color: rgb(7, 61, 20);
+  color: gainsboro;
+  text-align: center;
+}
+/*makes the website work for mobile devices*/
+@media only screen and (max-width:768px) {
+  body{
+    background-color: lightblue
+  }
+ 
+}
+@media only screen and (max-width:475px) {
+  body{
+    background-color: lightblue
+  }
+ 
 }
