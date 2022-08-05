@@ -13,3 +13,4 @@ this is an active portfolio that will continue to be updated as I further my Kno
 ![](Portfolio.jpg)
 ![](IMG_5475.jpg)
 ![](horiseon.jpg)
+![](project-1.jpg)
