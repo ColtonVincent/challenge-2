@@ -10,7 +10,8 @@ this is an active portfolio that will continue to be updated as I further my Kno
 
 # Gallery
 
-![](Portfolio.jpg)
-![](IMG_5475.jpg)
-![](horiseon.jpg)
-![](project-1.jpg)
+![](/images/Portfolio.jpg)
+![](/images/IMG_5475.jpg)
+![](/images/horiseon.JPG)
+![](/images/project-1.jpg)
+![](/images/project02.png)
