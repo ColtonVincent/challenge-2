@@ -4,11 +4,11 @@
 A view at my life and a little snipet of my work experience.
 this is an active portfolio that will continue to be updated as I further my Knowledge with coding.
 
-* Portfolio link
+# Portfolio link
 
 [deployed link to professional portfolio](https://coltonvincent.github.io/challenge-2/)
 
-* screenshots
+# Gallery
 
 ![](Portfolio.jpg)
 ![](IMG_5475.jpg)
